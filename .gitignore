@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.sqlite3
 
 # Distribution / packaging
 .Python
@@ -62,3 +63,4 @@ mysite/settings.py
 
 # PyCharm
 .idea
+
