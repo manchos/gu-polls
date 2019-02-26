@@ -1,2 +1,2 @@
-# django-tutorial
-try django tutorial
+# gu-polls
+
