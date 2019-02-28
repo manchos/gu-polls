@@ -59,7 +59,7 @@ docs/_build/
 target/
 
 # settings.py
-mysite/settings.py
+# mysite/settings.py
 
 # PyCharm
 .idea

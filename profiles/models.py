@@ -21,7 +21,7 @@ class CustomUser(AbstractUser):
     last_updated = models.DateTimeField(auto_now_add=True)
     # models.ForeignKey(Region, default=1, on_delete=models.SET_DEFAULT)
 
-    region = models.ForeignKey(
+    depart = models.ForeignKey(
         Department,
         related_name='users',
         null=True,
